@@ -1,0 +1,34 @@
+path_name,city,date,winner,winning_margin,winning_margin_runs,player_of_match,venue,team1,team2,toss_winner,toss_decision,winning_margin_wickets
+1473446.json,Ahmedabad,2025-03-29,Gujarat Titans,{'runs': 36},36.0,M Prasidh Krishna,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Mumbai Indians,Mumbai Indians,field,
+1473450.json,Lucknow,2025-04-01,Punjab Kings,{'wickets': 8},,P Simran Singh,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Punjab Kings,Punjab Kings,field,8.0
+1473470.json,Mumbai,2025-04-17,Mumbai Indians,{'wickets': 4},,WG Jacks,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,4.0
+1473466.json,Delhi,2025-04-13,Mumbai Indians,{'runs': 12},12.0,KV Sharma,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,
+1473467.json,Lucknow,2025-04-14,Chennai Super Kings,{'wickets': 5},,MS Dhoni,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,field,5.0
+1473451.json,Bengaluru,2025-04-02,Gujarat Titans,{'wickets': 8},,Mohammed Siraj,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,field,8.0
+1473447.json,Visakhapatnam,2025-03-30,Delhi Capitals,{'wickets': 7},,MA Starc,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,7.0
+1473460.json,Ahmedabad,2025-04-09,Gujarat Titans,{'runs': 58},58.0,B Sai Sudharsan,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,
+1473440.json,Chennai,2025-03-23,Chennai Super Kings,{'wickets': 4},,Noor Ahmad,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,4.0
+1473456.json,Kolkata,2025-04-08,Lucknow Super Giants,{'runs': 4},4.0,N Pooran,"Eden Gardens, Kolkata",Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,
+1473457.json,Hyderabad,2025-04-06,Gujarat Titans,{'wickets': 7},,Mohammed Siraj,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,field,7.0
+1473441.json,Visakhapatnam,2025-03-24,Delhi Capitals,{'wickets': 1},,Ashutosh Sharma,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Lucknow Super Giants,Delhi Capitals,Delhi Capitals,field,1.0
+1473461.json,Bengaluru,2025-04-10,Delhi Capitals,{'wickets': 6},,KL Rahul,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,6.0
+1473462.json,Chennai,2025-04-11,Kolkata Knight Riders,{'wickets': 8},,SP Narine,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,8.0
+1473458.json,Mumbai,2025-04-07,Royal Challengers Bengaluru,{'runs': 12},12.0,RM Patidar,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,
+1473439.json,Hyderabad,2025-03-23,Sunrisers Hyderabad,{'runs': 44},44.0,Ishan Kishan,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,
+1473454.json,Chennai,2025-04-05,Delhi Capitals,{'runs': 25},25.0,KL Rahul,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,
+1473442.json,Ahmedabad,2025-03-25,Punjab Kings,{'runs': 11},11.0,SS Iyer,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Gujarat Titans,Gujarat Titans,field,
+1473443.json,Guwahati,2025-03-26,Kolkata Knight Riders,{'wickets': 8},,Q de Kock,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,8.0
+1473455.json,Mohali,2025-04-05,Rajasthan Royals,{'runs': 50},50.0,JC Archer,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Rajasthan Royals,Punjab Kings,Punjab Kings,field,
+1473438.json,Kolkata,2025-03-22,Royal Challengers Bengaluru,{'wickets': 7},,KH Pandya,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,7.0
+1473459.json,Mohali,2025-04-08,Punjab Kings,{'runs': 18},18.0,Priyansh Arya,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Chennai Super Kings,Punjab Kings,bat,
+1473463.json,Lucknow,2025-04-12,Lucknow Super Giants,{'wickets': 6},,AK Markram,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,field,6.0
+1473468.json,Mohali,2025-04-15,Punjab Kings,{'runs': 16},16.0,YS Chahal,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,
+1473452.json,Kolkata,2025-04-03,Kolkata Knight Riders,{'runs': 80},80.0,VG Arora,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,
+1473444.json,Hyderabad,2025-03-27,Lucknow Super Giants,{'wickets': 5},,SN Thakur,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,field,5.0
+1473464.json,Hyderabad,2025-04-12,Sunrisers Hyderabad,{'wickets': 8},,Abhishek Sharma,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,8.0
+1473448.json,Guwahati,2025-03-30,Rajasthan Royals,{'runs': 6},6.0,N Rana,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,
+1473449.json,Mumbai,2025-03-31,Mumbai Indians,{'wickets': 8},,Ashwani Kumar,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,8.0
+1473465.json,Jaipur,2025-04-13,Royal Challengers Bengaluru,{'wickets': 9},,PD Salt,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,9.0
+1473445.json,Chennai,2025-03-28,Royal Challengers Bengaluru,{'runs': 50},50.0,RM Patidar,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,
+1473453.json,Lucknow,2025-04-04,Lucknow Super Giants,{'runs': 12},12.0,DS Rathi,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,
+1473469.json,Delhi,2025-04-16,Delhi Capitals,,,MA Starc,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,
