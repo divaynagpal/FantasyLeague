@@ -1,0 +1,15 @@
+path_name,city,date,winner,winning_margin,winning_margin_runs,player_of_match,venue,team1,team2,toss_winner,toss_decision,winning_margin_wickets
+335989.json,Chennai,2008-04-23,Chennai Super Kings,{'runs': 6},6.0,ML Hayden,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,
+335985.json,Mumbai,2008-04-20,Royal Challengers Bangalore,{'wickets': 5},,MV Boucher,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,5.0
+1473470.json,Mumbai,2025-04-17,Mumbai Indians,{'wickets': 4},,WG Jacks,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,4.0
+1473466.json,Delhi,2025-04-13,Mumbai Indians,{'runs': 12},12.0,KV Sharma,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,
+1473467.json,Lucknow,2025-04-14,Chennai Super Kings,{'wickets': 5},,MS Dhoni,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,field,5.0
+335984.json,Delhi,2008-04-19,Delhi Daredevils,{'wickets': 9},,MF Maharoof,Feroz Shah Kotla,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,bat,9.0
+335988.json,Hyderabad,2008-04-22,Delhi Daredevils,{'wickets': 9},,V Sehwag,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,9.0
+335983.json,Chandigarh,2008-04-19,Chennai Super Kings,{'runs': 33},33.0,MEK Hussey,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,bat,
+335982.json,Bangalore,2008-04-18,Kolkata Knight Riders,{'runs': 140},140.0,BB McCullum,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,
+1473468.json,Mohali,2025-04-15,Punjab Kings,{'runs': 16},16.0,YS Chahal,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,
+335987.json,Jaipur,2008-04-21,Rajasthan Royals,{'wickets': 6},,SR Watson,Sawai Mansingh Stadium,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,bat,6.0
+335986.json,Kolkata,2008-04-20,Kolkata Knight Riders,{'wickets': 5},,DJ Hussey,Eden Gardens,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,bat,5.0
+1473465.json,Jaipur,2025-04-13,Royal Challengers Bengaluru,{'wickets': 9},,PD Salt,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,9.0
+1473469.json,Delhi,2025-04-16,Delhi Capitals,,,MA Starc,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,
